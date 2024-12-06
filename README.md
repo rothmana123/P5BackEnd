@@ -1,6 +1,3 @@
-# Creating the README.md file with the provided content
-
-readme_content = """
 # Backend Repository for 514 Project 5
 
 This repository contains the backend code for **514 Project 5**.
@@ -17,3 +14,9 @@ This repository contains the backend code for **514 Project 5**.
 
 ## Project Structure
 The main project files are located in:
+Project5Backend/src/main/java/com/example/demo/
+
+### Key Classes
+- **`Essay.java`**: Represents the data entity class.
+- **`DemoApplication.java`**: A testing class for use with Maven Shell.
+"""
